@@ -1,8 +1,10 @@
-# Translate
+# intelora-translate
+
+A Neuron to translate a sentence with the use of Google API
 
 ## Synopsis
 
-Neuron to translate sentence with google API
+Make Intelora translate a sentence
 
 ## Installation
 
