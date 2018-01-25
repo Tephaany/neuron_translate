@@ -1,8 +1,7 @@
 # Translate
 
 ## Synopsis
-
-Neuron to translate sentence with google API
+A Neuron to translate sentence with Google API
 
 ## Installation
 
@@ -25,6 +24,14 @@ intelora install --git-url https://github.com/intelora/neuron_translate.git
 | result   | Result of translation | string | "Buenas noches" |
 | lang_in  | lang id in            | string | "en"            |
 | lang_out | lang id out           | string | "es"            |
+
+
+## Limitation
+Only available languages for translation:
+-English
+-Spansih
+-French
+
 
 ## Synapses example
 
